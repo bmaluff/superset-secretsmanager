@@ -1,6 +1,6 @@
 ## Overview
 
-This is a fork from https://github.com/awslabs/data-on-eks.git where they implement a superset version in EKS, but I didn't find any public repo that sets the AWS Secrets Manager to use it OOTB, so I hope this helps at least one folk and let them test it faster.
+This is a fork from https://github.com/awslabs/data-on-eks.git where they implement superset in EKS, but I didn't find any public repo that sets the AWS Secrets Manager to use it OOTB, so I hope this helps at least one folk and let them test it faster.
 
 ## Requirements
 1. Set an AWS account
